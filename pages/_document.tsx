@@ -2,8 +2,8 @@ import { Html, Head, Main, NextScript } from "next/document";
 import Document, { DocumentContext } from "next/document";
 import { cx } from "@/lib/utils";
 
-const GA_TRACKING_ID = 'G-CLL1CRSFF1'; // Replace with your GA tracking ID
-const GTM_ID = 'GTM-KNS9TMJJ'; // Replace with your GTM ID
+const GA_TRACKING_ID = 'G-65KVHQWWSZ'; // Replace with your GA tracking ID
+const GTM_ID = 'GTM-MM99N4V2'; // Replace with your GTM ID
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
