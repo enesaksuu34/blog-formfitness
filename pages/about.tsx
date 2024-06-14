@@ -6,18 +6,18 @@ const About: NextPage = () => {
   return (
     <>
       <Page
-        title="About - Hyaena Blog"
-        description="Welcome to the Hyaena Digital Blog - your hub for navigating the digital realm. Dive into a world where innovation meets expertise as we explore the latest trends, insights, and solutions in the ever-evolving landscape of technology."
+        title="Hakkında - Form VIP Fitness Blog"
+        description="Form VIP Fitness Blog'a hoş geldiniz - fitness dünyasında rehberiniz. En son egzersiz trendleri, sağlıklı yaşam ipuçları ve uzman tavsiyeleriyle dolu bir dünyaya dalın."
       >
         <Prose>
         <p>
-          At Hyaena Digital, we stand at the forefront of digital transformation, providing unparalleled services tailored to your needs. Led by a team of visionaries, tech enthusiasts, and cybersecurity experts, we are committed to empowering individuals and companies through cutting-edge solutions and top-notch security measures.
+          Form VIP Fitness olarak, sağlıklı ve formda bir yaşamı desteklemek için buradayız. Uzman eğitmenlerimiz, spor meraklıları ve sağlık profesyonelleri tarafından yönetilen ekibimiz, size en güncel ve etkili fitness çözümlerini sunmaya kararlıdır.
         </p>
         <p>
-          Embark on a journey with us as we share our experiences, knowledge, and industry insights gained from years of serving clients worldwide. From cybersecurity tips to server management best practices, we are here to equip you with the tools you need to thrive in the digital age.
+          Blogumuzda, yılların deneyimi ve dünya genelinde hizmet verdiğimiz müşterilerden edindiğimiz bilgilerle şekillenen yazılar bulacaksınız. Egzersiz ipuçlarından beslenme önerilerine, spor psikolojisinden sağlıklı yaşam stratejilerine kadar geniş bir yelpazede bilgi paylaşacağız.
         </p>
         <p>
-          Our mission is simple yet powerful: to democratize digitalization and make it accessible to all. Through our blog, we aim to demystify complex technologies, offer practical advice, and foster a community of digital enthusiasts dedicated to continuous learning and growth.
+          Misyonumuz basit ama güçlü: Fitness ve sağlıklı yaşamı herkes için erişilebilir kılmak. Blogumuz aracılığıyla karmaşık konuları basitleştirerek pratik tavsiyeler sunmayı ve sürekli öğrenme ve büyümeye kendini adamış bir topluluk oluşturmayı hedefliyoruz.
         </p>
         </Prose>
       </Page>

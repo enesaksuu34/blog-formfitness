@@ -14,11 +14,11 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
   return (
     <>
       <Page
-        title="Hyaena Blog"
+        title="Form VIP Fitness Blog"
         description={
           <>
             <p>
-              Empowering Your Digital Journey with Expert Insights and Solutions
+            Form VIP Fitness ile fitness yolculuğunuzu geliştirmek için uzman ipuçları, egzersiz rutinleri ve sağlıklı yaşam önerilerini keşfedin.
             </p>
           </>
         }

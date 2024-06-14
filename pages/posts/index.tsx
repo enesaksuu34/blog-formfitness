@@ -12,8 +12,8 @@ const Posts: NextPage<PostsProps> = ({ posts }) => {
   return (
     <>
       <Page
-        title="Posts"
-        description="Explore the latest insights, trends, and solutions in the digital world with Hyaena Digital. Our blog posts cover a wide range of topics, from cybersecurity best practices to server management tips and digital marketing strategies. Stay informed, engaged, and inspired as you delve into our articles crafted to empower you in the digital realm."
+        title="Gönderiler"
+        description="Form VIP Fitness ile fitness dünyasındaki en son bilgileri, trendleri ve çözümleri keşfedin. Blog gönderilerimiz, egzersiz ipuçlarından beslenme stratejilerine, sağlıklı yaşam önerilerinden spor psikolojisine kadar geniş bir yelpazeyi kapsıyor. Sağlıklı ve formda kalmak için ilham verici makalelerimize göz atın."
       >
         <PostList posts={posts} />
       </Page>
